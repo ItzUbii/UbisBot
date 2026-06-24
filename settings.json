@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ubiie.aternos.me:32364",
+    "ip": "Ubiie.aternos.me",
     "port": 32364,
     "version": "1.21.1"
   },
