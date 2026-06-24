@@ -8,13 +8,13 @@
   "server": {
     "ip": "KDSMPlol.aternos.me",
     "port": 27715,
-    "version": "26.2 (34)"
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 109,
+    "y": 63,
+    "z": 18
   },
   "utils": {
     "auto-auth": {
