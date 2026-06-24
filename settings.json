@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ubiie.aternos.me",
-    "port": 32364,
+    "ip": "KDSMPlol.aternos.me",
+    "port": 27715,
     "version": "1.21.1"
   },
   "position": {
@@ -46,18 +46,18 @@
     }
   },
   "movement": {
-    "enabled": true,
+    "enabled": false,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
-      "enabled": true,
+      "enabled": false,
       "interval": 5000
     },
     "random-jump": {
-      "enabled": true,
+      "enabled": false,
       "interval": 10000
     }
   },
