@@ -8,7 +8,7 @@
   "server": {
     "ip": "KDSMPlol.aternos.me",
     "port": 27715,
-    "version": "1.21"
+    "version": "1.21.4"
   },
   "position": {
     "enabled": true,
@@ -26,7 +26,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
